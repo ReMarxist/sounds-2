@@ -5,7 +5,7 @@ function play() {
   audio.play();
 }
 
-function stop() {
+function stop_sound() {
   audio.pause();
   audio.load();
 }
